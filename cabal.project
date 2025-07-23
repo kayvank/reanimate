@@ -15,5 +15,6 @@ packages:
 source-repository-package
     type: git
     location: https://github.com/kayvank/reanimate-svg
-    tag: 59dee239beb6daff0464ee0b26908889be41a620
-    --sha256:  sha256-Ge7hAZY5UEv0z9kdI4ArLZr4NSUVqPiN90EKcQ8WP0U=
+
+    tag: ec7b9a3122a53325ee284ccdf8c056f6356bc4c8
+    --sha256:  sha256-vOFx0W9W9EG7b7gXOt7mA4xTIk86D7JkllgV6yS4JXg=
